@@ -252,7 +252,8 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  github-pages (~> 228)
+  github-pages
+  jekyll-include-cache
 
 BUNDLED WITH
    2.4.9
