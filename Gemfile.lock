@@ -1,5 +1,4 @@
 GEM
-  remote: https://rubygems.org/
   specs:
     activesupport (7.0.4.3)
       concurrent-ruby (~> 1.0, >= 1.0.2)
@@ -253,7 +252,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-include-cache
+  jekyll
 
 BUNDLED WITH
    2.4.9
