@@ -3,24 +3,24 @@
 
 menu:
 - {name: 'About',    url: 'about'}
-- {name: 'Projects', url: ''}
+- {name: 'GIS', url: 'gis'}
+- {name: 'UI/UX', url: 'ui-ux'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
-# Projects Section
+# GIS Section
 
-projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+gis:
+- {name: 'GIS Project One',   url: 'gis-proj-1'}
 
 #-------------------------------
 # Contact Section
 
 social:
+- {icon: 'instagram', link: 'https://instagram.com/ayxie2'}
 - {icon: 'github',    link: 'https://github.com/andrewxie43'}
+- {icon: 'dribbble',  link: 'https://dribbble.com/ayxie2'}
+- {icon: 'behance',  link: 'https://www.behance.net/andrewxie1'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/andrew-x-890762165/'}
 - {icon: 'envelope',  link: 'mailto:ayxie2@gmail.com'}
 
@@ -45,7 +45,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: ''
+google-analytics-ua: 'UA-112060364-3'
 
 #-------------------------------
 # Disqus Section
