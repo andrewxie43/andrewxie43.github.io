@@ -11,7 +11,7 @@ menu:
 # GIS Section
 
 gis:
-- {name: 'GIS Project One',   url: 'gis-proj-1'}
+- {name: 'GIS Classwork',   url: 'gis-classwork'}
 
 #-------------------------------
 # Contact Section
