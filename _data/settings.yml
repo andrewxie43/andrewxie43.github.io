@@ -3,6 +3,7 @@
 
 menu:
 - {name: 'About',    url: 'about'}
+- {name: 'Data Science', url: 'ds'}
 - {name: 'GIS', url: 'gis'}
 - {name: 'UI/UX', url: 'ui-ux'}
 - {name: 'Contact',  url: 'contact'}
@@ -17,7 +18,6 @@ gis:
 # Contact Section
 
 social:
-- {icon: 'instagram', link: 'https://instagram.com/ayxie2'}
 - {icon: 'github',    link: 'https://github.com/andrewxie43'}
 - {icon: 'dribbble',  link: 'https://dribbble.com/ayxie2'}
 - {icon: 'behance',  link: 'https://www.behance.net/andrewxie1'}
