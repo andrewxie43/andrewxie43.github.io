@@ -6,6 +6,7 @@ menu:
 - {name: 'Data Science', url: 'ds'}
 - {name: 'GIS', url: 'gis'}
 - {name: 'UI/UX', url: 'ui-ux'}
+- {name: 'Blog',     url: 'blog'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
