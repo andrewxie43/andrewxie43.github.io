@@ -5,7 +5,7 @@ menu:
 - {name: 'About',    url: 'about'}
 - {name: 'Data Science', url: 'ds'}
 - {name: 'GIS', url: 'gis'}
-- {name: 'UI/UX', url: 'ui-ux'}
+#- {name: 'UI/UX', url: 'ui-ux'}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'Contact',  url: 'contact'}
 
@@ -20,8 +20,8 @@ gis:
 
 social:
 - {icon: 'github',    link: 'https://github.com/andrewxie43'}
-- {icon: 'dribbble',  link: 'https://dribbble.com/ayxie2'}
-- {icon: 'behance',  link: 'https://www.behance.net/andrewxie1'}
+# - {icon: 'dribbble',  link: 'https://dribbble.com/ayxie2'}
+# - {icon: 'behance',  link: 'https://www.behance.net/andrewxie1'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/andrew-x-890762165/'}
 - {icon: 'envelope',  link: 'mailto:ayxie2@gmail.com'}
 
